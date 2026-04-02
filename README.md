@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=H+HHi+👋+Welcome+to+Etienne+GitHub+PorfoliOO+O)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=H+HHi+👋+Welcome+to+Etienne+GitHub+PorfoliO+O+O)](https://git.io/typing-svg)
 
 
 
