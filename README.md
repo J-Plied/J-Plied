@@ -1,6 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hi+Welcome+to+Etienne+GitHub+Porfolio)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+size=32
+&duration=5000
+&pause=1500
+&color=1E90FF
+&center=true
+&vCenter=true
+&width=900
+&lines=👋+Hi+Welcome+to+Etienne+GitHub+Portfolio)]
+(https://git.io/typing-svg)
+
+
+
 <h3 align="center"> Passionate about Public Health, Data management and Methodology  </h3>
 
 - 🔭 I’m currently working on ** Clinical Research, Epidemiology & Biostatistics and Data management **
