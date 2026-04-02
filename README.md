@@ -1,14 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines= Hi+Welcome+to+my+Porforfolio)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hi+Welcome+to+Etienne+GitHub+Porforfolio)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Etienne and welcome to my Porfolio </h1>
-<h3 align="center"> Passionate about Epidemiology, Data management, Biostatistics and Methodology  </h3>
+<h3 align="center"> Passionate about Public Health, Data management and Methodology  </h3>
 
 - 🔭 I’m currently working on ** Clinical Research, Epidemiology & Biostatistics and Data management **
 
-- 🌱 I learned **" Epidemiology, Data management, Biostatistics  "**
+- 🌱 I learned **" Public Health, Epidemiology, Biostatistics  "**
 
 - 💬 Ask me about **Artificial Intelligence**
 
