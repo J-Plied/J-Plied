@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines= Hi+Welcome+to+my+Porforfolio)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hi+Welcome+to+ Etienne+GitHub+Porforfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Hi+Welcome+to+Etienne+GitHub+Porforfolio)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, I'm Etienne and welcome to my Porfolio </h1>
