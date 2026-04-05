@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+to+Etienne+PortfoliO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+to+Etienne+Portfolio)](https://git.io/typing-svg)
 
 
 <h3 align="center"> Passionate about Public Health, Data management and Methodology  </h3>
