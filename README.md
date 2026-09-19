@@ -3,7 +3,7 @@
 
 <h3 align="center"> Passionate about Public Health, Neurology, Data management and Methodology  </h3>
 
-- 🔭 I’m currently working on ** Clinical Research, Psuchosocial rehabilitation, Epidemiology & Biostatistics and Data management **
+- 🔭 I’m currently working on ** Clinical Research, Psychosocial rehabilitation, Epidemiology & Biostatistics and Data management **
 
 - 🌱 I learned **" Public Health, Epidemiology, Biostatistics, Neurology "**
 
