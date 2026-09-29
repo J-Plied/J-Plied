@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** Clinical Research, Psychosocial rehabilitation, Epidemiology & Biostatistics and Data management **
 
-- 🌱 I learned **" Public Health, Epidemiology, Biostatistics, Neurology "**
+- 🌱 I learned **" Public Health, Epidemiology, Biostatistics, Neuroscience "**
 
 - 💬 Ask me about **Artificial Intelligence**
 
